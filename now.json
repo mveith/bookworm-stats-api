@@ -1,0 +1,6 @@
+{
+    "env": {
+        "CONSUMER_KEY": "@consumer_key",
+        "CONSUMER_SECRET": "@consumer_secret"
+    }
+}
